@@ -24,6 +24,7 @@ Main_Forecasting_LP.ipynp is the final file that needs to be executed.
 Smartmeter data & tariff data: https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households 
 Weather data: https://open-meteo.com/en/docs 
 Use following latitude and longitude for the temperature data of London
-latitude	longitude
-51.493847	-0.1630249
+
+latitude : 51.493847	longitude : -0.1630249
+	
 

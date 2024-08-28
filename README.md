@@ -10,6 +10,7 @@ The dataset includes energy consumption and weather data for forecasting consume
 Consumer archetype Cluster 01 is further merged its base & peak load and Tariff price for optimization
 ## Forecasting:
 **LSTM Model**: A neural network model trained to predict future energy consumption based on historical data.
+
 **SARIMAX Model**: A statistical model used to forecast energy consumption while accounting for seasonality and exogenous variables like temperature.
 Forecasts from both models are generated for each consumer archetype.
 ## TOU Tariff Optimization:
